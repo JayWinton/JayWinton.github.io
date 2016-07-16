@@ -1,0 +1,159 @@
+li{
+    display:inline-block;
+
+    border: 5px solid #f8f0e4;
+    margin-left: 165px;
+    margin-top: 30px;
+    flex-wrap: wrap;
+}
+
+body{
+    background-image: url(http://i.imgur.com/LZrlFLP.png);
+    min-height: 400px;
+   margin-bottom: 100px;
+   clear: both;
+
+    
+    
+}
+
+.header img{
+    margin-top: 40px;
+    position: sticky;
+    margin-left: -175px;
+    flex-wrap: wrap;
+}
+
+.gallery{
+    margin-top: -25px;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding:50px;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+
+    
+}
+
+.story{
+    font-family:serif;
+    font-size: 18pt;
+    font-variant: small-caps;
+    padding: 5px;
+    margin-top: 25px;
+    color:mediumvioletred;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+footer {
+    
+  background-color: #FADEA4; 
+  position:relative;
+    bottom:-100px;
+    left: -8px;
+    right:0px;
+    
+    height: 150px;
+    width:1435px;
+}
+
+.dani{
+
+padding: 50px;
+    margin-left: 450px
+}
+
+.location{
+    margin-left: 400px;
+    padding: 70px;
+}
+
+.pricing{
+    width: 100%;
+    height: 100%;
+    padding: 35px;
+    margin-left: 240px;
+}
+
+.enter{
+    padding: 80px;
+    margin-left: 400px;
+}
+
+.map{
+    margin-top: -44px;
+    margin-left: 400px;
+}
+
+.price{
+    padding: 50px;
+    margin-left: 200px;
+}
+
+.contact{
+    margin-top: -500px;
+    margin-left: 750px;
+}
+
+
+
+h2{
+  padding:100px;  
+}
+
+h4{
+    margin-top: -105px;
+    margin-left: 35px;
+}
+
+h5{
+    margin-top: -10px;
+    margin-left: 35px;
+}
+
+
+    
+}
+
+a:link {
+color: mediumvioletred;
+}
+a:visited {
+color: #999999;
+}
+a:hover {
+color: lightpink;
+}
+
+.copyright1{
+    float: left;
+    margin-top: 30px;
+    margin-left: 200px;
+    color:mediumvioletred;
+    font-size: 15pt;
+    
+    
+}
+
+.bottom{
+    margin-bottom: 0px;
+    
+    
+    
+}
+
+.copyright2{
+    float: right;
+    margin-top: 10px;
+    margin-right: 250px;
+    color:mediumvioletred;
+    font-size: 15pt;
+    
+}
+
+main {
+    display: block
+}
+
+
