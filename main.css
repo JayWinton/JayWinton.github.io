@@ -1,0 +1,66 @@
+body{
+    background-image: url(http://i.imgur.com/okMaYIR.png)
+}
+
+.bar{
+    padding: 0px;
+    display:inline-block;
+  margin-left: 15px;
+    padding-bottom: 100px;
+}
+
+.schedule{
+    padding: 50px;
+    padding-top: 50px;
+    margin-left: 300px;
+    
+    
+}
+
+.slider{
+    padding: 20px;
+    padding-bottom: 150px;
+    margin-left: -28px;
+}
+
+.bottom{
+    padding:-20px;
+    margin-left: -20px;
+    margin-right: 10px;
+    position:static;
+    
+}
+
+.story{
+    padding:10px;
+    margin-left: 150px;
+    margin-bottom: 50px;
+}
+
+.spot{
+    padding:20px;
+    margin-bottom: 50px;
+    margin-left: 350px;
+}
+
+.list{
+    padding:10px;
+    padding-bottom: 80px;
+    margin-left: 150px;
+}
+
+.sign{
+    padding-bottom: 80px;
+    float:right;
+    margin-right: 30px;
+}
+
+.letter{
+    padding-bottom: 80px;
+}
+
+.card{
+    padding-bottom: 80px;
+    margin-left: 220px;
+    margin-right: 100px;
+}
