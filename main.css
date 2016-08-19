@@ -1,0 +1,85 @@
+
+
+/* Remove margins and padding from the list, and add a black background color */
+ul.topnav {
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+  list-style:none;
+vertical-align:top;
+    overflow:inherit;
+    
+    
+    
+    
+}
+
+/* Float the list items side by side */
+ul.topnav li {float: right}
+/* Style the links inside the list items */
+ul.topnav li a {
+    display: inline;
+    color: #28AAE3;
+    text-align: center;
+    padding: 14px 25px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size:14px;
+    margin-top: 170px;
+    clear: both;
+    
+    
+    
+    
+    }
+
+/* Change background color of links on hover */
+ul.topnav li a:hover {background-color: lightgrey;}
+
+/* Hide the list item that contains the link that should open and close the topnav on small screens */
+ul.topnav li.icon {display:none;}
+
+.logo{
+    float: left;
+    clear:both;
+    position: absolute;
+    margin-top: -60px;
+    }
+
+
+#big{
+position:relative;
+   
+
+}
+
+
+
+/* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens */
+@media screen and (max-width:680px) {
+  ul.topnav.responsive {position: absolute;}
+  ul.topnav.responsive li.icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+      clear:both;
+  }
+  ul.topnav.responsive li {
+    float: none;
+      clear:both;
+      display: inline-block;}
+    
+  ul.topnav.responsive li a {
+    display: inline-block;
+    text-align:justify;
+      clear:both;
+  }
+}
+
+#image{
+    position: relative;
+    margin-top: -5px;
+    
+}
+ 
+
